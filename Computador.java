@@ -9,7 +9,7 @@ public class Computador {
     // Construtor default (sem parâmetros)
     public Computador() {
     }
-
+    
     // Construtor com parâmetros
     public Computador(String marca, String modelo, int memoriaRAM, double processadorGHz, double preco) {
         this.marca = marca;
